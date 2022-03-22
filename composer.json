@@ -1,0 +1,17 @@
+{
+    "name": "sanotsroger/search-zipcode",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sanotsroger\\SearchZipcode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roger Santos",
+            "email": "rogerioantoniodossantos@outlook.com"
+        }
+    ],
+    "require": {}
+}
