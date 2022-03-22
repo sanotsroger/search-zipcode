@@ -1,6 +1,6 @@
 <?php
 
-namespace Sanotsroger\SearchZipcode;
+namespace SanotsRoger\SearchZipcode;
 
 class Search
 {

@@ -2,7 +2,7 @@
 
 require 'vendor/autoload.php';
 
-use Sanotsroger\SearchZipcode\Search;
+use SanotsRoger\SearchZipcode\Search;
 
 $search = new Search();
 
