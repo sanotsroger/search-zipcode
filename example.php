@@ -6,4 +6,4 @@ use Sanotsroger\SearchZipcode\Search;
 
 $search = new Search();
 
-print_r($search->getAdressbyZipcode('00100000'));
+print_r($search->getAdressbyZipcode('01001000'));
