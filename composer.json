@@ -13,5 +13,7 @@
             "email": "rogerioantoniodossantos@outlook.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
 }
